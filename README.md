@@ -1,2 +1,1 @@
-# gh-actions-test
-Test GH Actions
+# Test GH Actions
